@@ -58,7 +58,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                   items: const [
                     DropdownMenuItem(value: 'en', child: Text('English')),
                     DropdownMenuItem(value: 'fr', child: Text('Français')),
-                    DropdownMenuItem(value: 'sw', child: Text('Kiswahili')),
+                    DropdownMenuItem(value: 'sw', child: Text('Swahili')),
                     DropdownMenuItem(value: 'es', child: Text('Español')),
                   ],
                   onChanged: (value) {
