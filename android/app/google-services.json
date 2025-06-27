@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "753504282229",
+    "project_id": "olearn-6cdb8",
+    "storage_bucket": "olearn-6cdb8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753504282229:android:49c825b4a34bd1ac9bfa3c",
+        "android_client_info": {
+          "package_name": "com.example.olearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753504282229-alavd6trspl8egeqapoduvsqhdmv8kud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.olearn",
+            "certificate_hash": "7641a66b8d0cbb3fad38ff41feb8413b2e657a12"
+          }
+        },
+        {
+          "client_id": "753504282229-992mqnvvljvn62ij21nl9ng51am8p979.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYTrp7jxsxmRWWW-0tvQJhAZeDmV2XfXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753504282229-992mqnvvljvn62ij21nl9ng51am8p979.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "753504282229-ne6hfedta9b9qlt2c4j4gqmfv8hlpn27.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.olearn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
